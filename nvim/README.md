@@ -1,4 +1,6 @@
-# AstroNvim Template
+# sampsn nvim config
+
+Everything below is from the original astronvim template repository
 
 **NOTE:** This is for AstroNvim v4+
 
