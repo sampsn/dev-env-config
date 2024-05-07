@@ -1,0 +1,22 @@
+import = ["~/.config/alacritty/themes/themes/alabaster_dark.toml"]
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 4
+padding.y = 7
+option_as_alt = "OnlyLeft"
+
+decorations = "Buttonless"
+
+opacity = 0.95
+blur = true
+
+[font]
+# normal.family = "GohuFont uni11 Nerd Font Mono"
+normal.family = "MesloLGS NF"
+# normal.family = "Lekton Nerd Font Mono"
+# normal.family = "Hack Nerd Font Mono"
+# normal.family = "0xProto Nerd Font Mono"
+# normal.family = "Terminess Nerd Font Mono"
+size = 12
