@@ -1,0 +1,12 @@
+{
+  "pico": {
+    "prefix": "pico",
+    "body": [
+      "<link",
+      "rel=\"stylesheet\"",
+      "href=\"https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css\"",
+      "/>"
+    ],
+    "description": "Import CDN for PicoCSS"
+  }
+}
