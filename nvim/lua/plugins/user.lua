@@ -81,33 +81,27 @@ return {
   --     )
   --   end,
   -- },
-  {
-    "AstroNvim/astrotheme",
-    opts = {
-      palette = "astrodark",
-      palettes = {
-        astrodark = {
-          ui = {
-            base = "#0E1415",
-            inactive_base = "#0C1212",
-          },
-        },
-      },
-    },
-  },
-  {
-    "linux-cultist/venv-selector.nvim",
-    opts = {
-      name = ".venv",
-      parent = 1,
-    },
-  },
-  {
-    "m4xshen/smartcolumn.nvim",
-    opts = {
-      colorcolumn = "120",
-    },
-  },
+  -- {
+  --   "AstroNvim/astrotheme",
+  --   opts = {
+  --     palette = "astrodark",
+  --     palettes = {
+  --       astrodark = {
+  --         ui = {
+  --           base = "#0E1415",
+  --           inactive_base = "#0C1212",
+  --         },
+  --       },
+  --     },
+  --   },
+  -- },
+  -- {
+  --   "linux-cultist/venv-selector.nvim",
+  --   opts = {
+  --     name = ".venv",
+  --     parent = 1,
+  --   },
+  -- },
   {
     "barrett-ruth/live-server.nvim",
     build = "npm add -g live-server",
